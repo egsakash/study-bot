@@ -1,0 +1,7 @@
+{
+  "answer_template": "🌟<b>Asked By: </b><i><u>{user}</u></i><b>\n❓Question: </b><pre>{question}</pre>\n\n<b>💡Answer: </b><pre>{answer}</pre>",
+  "not_allowed":"⚠️ <b>Sorry {first_name}</b>⚠️\n\n🚫 <i>This Bot is meant to be used in Specified Groups Only</i>🚫",
+  "welcome_message":"Hi! {first_name} , Use the Bot To grow your knowledge and clear doubts. Begin with <b>/answer </b><i>yanha doubt likho</i>",
+  "server_down":"{first_name} Some error Occured or Server down ⚠️ :(",
+  "no_question":"<b>{first_name}</b> <i>Please provide any question or Doubt First.\n\n<code>/answer Chauri Chaura Kand from Nationalism In India Chapter SST</code>\n\n(Copy Krne Ke Liye Question Pr Tap Kro)</i>"
+}
